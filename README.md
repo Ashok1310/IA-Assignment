@@ -1,8 +1,5 @@
 # IA-Assignment
 ## Usage
-
-<br>
-<br>
 The program is designed to run in the command-line interface. To use the program:
 
 <br>Clone the GitHub repository.
